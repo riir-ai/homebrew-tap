@@ -1,14 +1,14 @@
-# gist-rs Homebrew tap
+# riir-ai Homebrew tap
 
-Manifest-only tap for gist-rs binaries. Source-free by policy: every formula
+Manifest-only tap for riir-ai binaries. Source-free by policy: every formula
 installs a **prebuilt release binary** — no source is published here and
 nothing is built from source.
 
 ## Use
 
 ```sh
-brew tap gist-rs/tap
-brew trust gist-rs/tap   # one-time tap trust — Homebrew 6+ refuses untrusted taps
+brew tap riir-ai/tap
+brew trust riir-ai/tap   # one-time tap trust — Homebrew 6+ refuses untrusted taps
 brew install cargo-heal
 ```
 
