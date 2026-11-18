@@ -28,7 +28,7 @@ class RiirRefine < Formula
 
   def caveats
     <<~EOS
-      Also on crates.io: "cargo install cargo-refine" (MIT) builds the
+      Also on crates.io: "cargo install riir-refine" (MIT) builds the
       code-fixing lane from source with your Rust toolchain. This prebuilt
       formula additionally carries the hosted contribution surface
       (cargo refine join, the leaderboard, latent retrieval).
